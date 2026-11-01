@@ -77,3 +77,8 @@ Enter a password, and the analyzer will score it and provide tips to improve pas
 - Create a more complete ranking system
 - Provide better tips for improving password security
 - Include more criteria and a wider score range
+
+## License
+
+This project is released under the MIT License.
+See the LICENSE file for details.
