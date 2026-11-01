@@ -2,6 +2,11 @@
 
 A simple Python project that evaluates the strength of a password entered by the user using a score-based system. The analyzer considers password length, character variety, and common-password detection, including passwords such as "password123".
 
+<p align="center">
+  <img src="screenshots/strong-password.png" width="40%" alt="Strong password analysis">
+  <img src="screenshots/weak-password.png" width="40%" alt="Weak password analysis">
+</p>
+
 ## Features
 
 - **Length analysis**
@@ -10,11 +15,6 @@ A simple Python project that evaluates the strength of a password entered by the
 - **Numbers**
 - **Special characters**
 - **Commonly used passwords**
-
-<p align="center">
-  <img src="screenshots/strong-password.png" width="40%" alt="Strong password analysis">
-  <img src="screenshots/weak-password.png" width="40%" alt="Weak password analysis">
-</p>
 
 ## Technologies
 
