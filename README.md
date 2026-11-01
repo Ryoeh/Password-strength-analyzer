@@ -11,6 +11,11 @@ A simple Python project that evaluates the strength of a password entered by the
 - **Special characters**
 - **Commonly used passwords**
 
+<p align="center">
+  <img src="screenshots/strong-password.png" width="40%" alt="Strong password analysis">
+  <img src="screenshots/weak-password.png" width="40%" alt="Weak password analysis">
+</p>
+
 ## Technologies
 
 - **Python 3.x**
@@ -57,8 +62,8 @@ Enter a password, and the analyzer will score it and provide tips to improve pas
 | Ranking | Score |
 |:---|---:|
 | Weak | 0 - 2 |
-| Medium | 3 - 5 |
-| Strong | 6 - 7 |
+| Medium | 3 - 4 |
+| Strong | 5 - 6 |
 
 ## Limitations
 
