@@ -80,5 +80,10 @@ Enter a password, and the analyzer will score it and provide tips to improve pas
 
 ## License
 
-This project is released under the MIT License.
-See the LICENSE file for details.
+This project is distributed under the **Ryoeh Proprietary License v1.2**.
+
+Viewing and studying the source code are permitted. Any reuse, reproduction, modification, redistribution, or commercial use requires prior written authorization from the author.
+
+For the complete terms and conditions, see the [LICENSE](./LICENSE) file.
+
+For authorization requests, please open a GitHub Issue.
